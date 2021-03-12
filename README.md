@@ -2,7 +2,7 @@
 
 ## To run application
 
-## cd client
+## `cd client`
 
 ### `yarn start`
 
